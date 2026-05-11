@@ -1,0 +1,10 @@
+field,accuracy
+due_date,0.9436
+payment_term,0.9808
+vendor_id,0.976
+invoice_amount,0.9694
+invoice_date,0.9612
+po_number,0.9748
+currency,0.9794
+contract_reference,0.975
+overall,0.970025

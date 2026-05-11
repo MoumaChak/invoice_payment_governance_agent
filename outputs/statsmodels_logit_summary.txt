@@ -1,0 +1,1 @@
+Statsmodels logistic summary skipped by default for fast demo execution. Run with RUN_STATSMODELS=1 python run_pipeline.py to generate it.

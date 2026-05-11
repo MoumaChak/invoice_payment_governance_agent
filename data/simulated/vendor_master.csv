@@ -1,0 +1,421 @@
+vendor_id,vendor_name,vendor_category,vendor_country,vendor_payment_term,vendor_risk_rating,historical_early_payment_rate
+V00001,"Cooper, Foster and Brown",Facilities,Indonesia,60,Low,0.2815
+V00002,Phillips Group,Marketing,UK,30,Medium,0.2867
+V00003,"Tran, Pollard and King",Marketing,South Africa,30,Low,0.3319
+V00004,Benson Group,Marketing,Indonesia,30,Low,0.179
+V00005,Jones-Fischer,Facilities,India,60,Low,0.1547
+V00006,Hodge and Sons,Marketing,Mexico,60,High,0.4102
+V00007,"Atkinson, Byrd and Lynn",Marketing,Indonesia,30,Low,0.1151
+V00008,Merritt and Sons,Logistics,Indonesia,60,Medium,0.3555
+V00009,"Bernard, Hernandez and Carrillo",Logistics,India,30,Low,0.0679
+V00010,Henderson PLC,Marketing,UK,60,High,0.4188
+V00011,Weiss-Guerra,IT Services,UK,90,Low,0.2348
+V00012,Sullivan-Grant,Marketing,Mexico,60,Low,0.0636
+V00013,Fisher-Brock,Facilities,Germany,60,Medium,0.397
+V00014,"Jones, Soto and Wong",Facilities,South Africa,60,High,0.2505
+V00015,Thomas-Nguyen,Marketing,UK,30,Low,0.1359
+V00016,Garza-Carter,Professional Services,USA,30,Low,0.1906
+V00017,Greene-Mckenzie,Packaging,Brazil,30,Medium,0.0766
+V00018,Miller LLC,Professional Services,India,45,High,0.3225
+V00019,Green-Caldwell,Logistics,South Africa,60,Low,0.2671
+V00020,Anderson Group,Marketing,Germany,60,Low,0.0552
+V00021,Perez-Oneill,Packaging,Indonesia,60,Medium,0.6116
+V00022,Lee-Wright,Marketing,UK,30,Medium,0.3569
+V00023,"Love, Padilla and Elliott",Logistics,Mexico,60,Medium,0.261
+V00024,Davenport-Brewer,IT Services,Mexico,30,Medium,0.5499
+V00025,Miller Ltd,Raw Materials,Indonesia,30,Low,0.4311
+V00026,Donovan-Salinas,Facilities,USA,60,High,0.1665
+V00027,"Smith, Skinner and Carson",Professional Services,UK,90,Medium,0.0773
+V00028,"Miller, Gallagher and Reynolds",Marketing,India,60,Medium,0.1063
+V00029,Davidson LLC,Marketing,India,30,Low,0.313
+V00030,"Garza, Williams and Hamilton",IT Services,Germany,60,Low,0.1128
+V00031,Berger-Strong,Packaging,Indonesia,30,Medium,0.1042
+V00032,Rodriguez Group,Facilities,Mexico,60,Low,0.087
+V00033,"Barnes, Simmons and Foley",Packaging,USA,60,High,0.3281
+V00034,Watson LLC,IT Services,UK,30,Low,0.4151
+V00035,"Brown, Bradley and Adkins",Logistics,UK,30,Medium,0.146
+V00036,Carey and Sons,Facilities,USA,30,High,0.3586
+V00037,"Perry, Duke and Olson",Facilities,India,90,Low,0.2374
+V00038,Harmon Inc,Packaging,Brazil,45,Low,0.3522
+V00039,Matthews Ltd,IT Services,USA,60,Medium,0.2259
+V00040,"Bishop, Villarreal and Reyes",Marketing,Germany,60,Medium,0.6272
+V00041,Hill Inc,Logistics,UK,45,Low,0.128
+V00042,Patterson-Moore,IT Services,South Africa,30,Medium,0.1305
+V00043,"Smith, Allison and Christian",Professional Services,Indonesia,90,High,0.4222
+V00044,Ponce Ltd,Raw Materials,USA,30,Low,0.3727
+V00045,"Torres, Tanner and Larsen",Professional Services,South Africa,45,Low,0.047
+V00046,"Howard, Knight and Hines",Facilities,South Africa,60,Low,0.0847
+V00047,"Walker, Moyer and Owens",Marketing,UK,60,Low,0.1897
+V00048,Morales and Sons,IT Services,USA,90,Low,0.4343
+V00049,Morris-Mendoza,Logistics,Germany,30,Low,0.0569
+V00050,Kim LLC,Raw Materials,India,45,Medium,0.2087
+V00051,Galvan LLC,IT Services,USA,30,Low,0.3722
+V00052,Thompson-Bush,Facilities,India,45,High,0.3461
+V00053,Quinn-Schroeder,Packaging,Indonesia,30,Low,0.119
+V00054,"Ball, Zamora and Mcpherson",Facilities,Germany,30,Low,0.5078
+V00055,"Delgado, Rivera and Smith",Facilities,Indonesia,30,Medium,0.298
+V00056,Silva-Weber,Facilities,Indonesia,30,High,0.4286
+V00057,"Carr, Smith and Benton",Logistics,UK,45,Low,0.3614
+V00058,"Jones, Walton and Baker",Logistics,Brazil,60,Low,0.2215
+V00059,"Hess, Rose and Bell",Logistics,India,60,Low,0.1328
+V00060,Harris-Anderson,Facilities,India,30,Low,0.2226
+V00061,Petersen Inc,Professional Services,Germany,30,Low,0.1924
+V00062,"Jimenez, Long and Washington",Logistics,Brazil,30,Low,0.0812
+V00063,"Mccarthy, Sanchez and Perry",Professional Services,Brazil,45,Low,0.46
+V00064,Murphy-Johnson,Marketing,Indonesia,30,Low,0.2015
+V00065,"King, Fowler and Webster",Logistics,Germany,30,High,0.4418
+V00066,"Johns, Johnson and Krause",Raw Materials,Brazil,30,Medium,0.2744
+V00067,Blackburn Group,IT Services,Brazil,45,Low,0.042
+V00068,Wilson-Williams,IT Services,USA,30,Low,0.304
+V00069,Le and Sons,Professional Services,India,45,Low,0.0855
+V00070,Mcdowell-Barnes,Facilities,UK,45,Low,0.0665
+V00071,Welch and Sons,Raw Materials,USA,60,Medium,0.2086
+V00072,Garcia-Newton,Marketing,UK,60,High,0.2778
+V00073,"Leonard, Myers and Anderson",Facilities,South Africa,60,High,0.4857
+V00074,Valdez Inc,Marketing,USA,30,High,0.2598
+V00075,Robinson-Ford,Marketing,India,60,High,0.2366
+V00076,"Avery, Jordan and Smith",Facilities,USA,45,High,0.2506
+V00077,Vaughn-Williams,IT Services,USA,45,Low,0.2447
+V00078,Smith PLC,IT Services,Germany,60,Low,0.0446
+V00079,"Mitchell, Huff and Garcia",Marketing,Brazil,30,Low,0.2432
+V00080,Buckley-Robertson,Packaging,Indonesia,45,Medium,0.2075
+V00081,Keller Group,Marketing,Germany,60,Low,0.2273
+V00082,Hernandez Ltd,Professional Services,UK,60,Medium,0.1863
+V00083,"Rosales, Reynolds and Jones",IT Services,South Africa,90,Medium,0.2877
+V00084,Richardson-Rodriguez,IT Services,India,45,Low,0.2214
+V00085,Sharp-Meyer,Raw Materials,India,45,Low,0.0873
+V00086,"Dean, Lopez and Frank",Professional Services,India,60,Low,0.0367
+V00087,Perez and Sons,Packaging,Indonesia,30,Low,0.3508
+V00088,Pham Inc,Professional Services,UK,60,Medium,0.2886
+V00089,"Avila, Johnson and Fritz",Marketing,India,45,Medium,0.212
+V00090,Burke PLC,Professional Services,Brazil,30,Medium,0.0748
+V00091,"Sullivan, Valencia and Delgado",Professional Services,India,30,Low,0.1623
+V00092,Nguyen Group,Facilities,Indonesia,60,Low,0.074
+V00093,Stone Inc,Professional Services,UK,30,Low,0.229
+V00094,"Wright, Willis and Smith",IT Services,UK,30,Medium,0.4294
+V00095,Galloway-Leblanc,Facilities,USA,30,Medium,0.3353
+V00096,"Aguirre, Graves and Stevens",Packaging,Germany,30,Low,0.1204
+V00097,Lucas Inc,Raw Materials,UK,30,High,0.2742
+V00098,"Davidson, Taylor and Martinez",Marketing,India,60,Low,0.1666
+V00099,"Dalton, Taylor and Allen",Facilities,India,30,High,0.2512
+V00100,Ryan-Huffman,Facilities,Mexico,60,Low,0.1883
+V00101,Martinez-Foster,Marketing,Mexico,60,Low,0.3227
+V00102,Waters Inc,Marketing,Indonesia,30,Medium,0.159
+V00103,Moore-Bird,IT Services,USA,30,Low,0.2653
+V00104,Smith-Robbins,Professional Services,Mexico,60,Low,0.2245
+V00105,"Kerr, Ryan and Lewis",Facilities,Indonesia,30,Low,0.04
+V00106,Alexander-Everett,Raw Materials,Indonesia,30,Low,0.1503
+V00107,"Cook, Jones and Hahn",IT Services,UK,90,Medium,0.2656
+V00108,Cooper-Peterson,Logistics,USA,90,Medium,0.204
+V00109,"Gregory, Smith and Johnson",Facilities,India,60,High,0.5694
+V00110,Jackson-Nguyen,Marketing,Mexico,30,Low,0.2642
+V00111,Nash Ltd,Professional Services,UK,60,Low,0.1797
+V00112,"Cox, Small and Burns",Marketing,USA,60,Low,0.3575
+V00113,Wang-Williams,IT Services,USA,30,Low,0.5132
+V00114,"Nelson, Howell and Garcia",Raw Materials,Brazil,60,Low,0.0452
+V00115,Baker LLC,Professional Services,USA,30,High,0.2471
+V00116,Lewis-Smith,Packaging,South Africa,30,High,0.2955
+V00117,"Valencia, Lopez and Campbell",Logistics,Indonesia,45,Medium,0.2039
+V00118,"Foster, Pittman and Pratt",Facilities,Indonesia,30,Low,0.1056
+V00119,"Valencia, Cobb and Hartman",Professional Services,UK,30,Low,0.1914
+V00120,Collins Inc,Marketing,Germany,60,Low,0.01
+V00121,Anderson Inc,Marketing,Brazil,90,Low,0.181
+V00122,Brown LLC,Raw Materials,Germany,45,Low,0.0124
+V00123,Hudson Ltd,Professional Services,India,60,Low,0.1845
+V00124,Foley-Watts,Raw Materials,UK,90,Low,0.0729
+V00125,Nelson LLC,Raw Materials,India,30,High,0.499
+V00126,"Booth, Watts and Harding",Marketing,Brazil,45,Low,0.0988
+V00127,"Walters, Rose and Richardson",Raw Materials,USA,30,High,0.3579
+V00128,Simon and Sons,Packaging,India,30,Low,0.2573
+V00129,"Dunn, Garrison and Rivera",IT Services,India,60,Medium,0.1578
+V00130,French-Welch,IT Services,Brazil,45,Low,0.0607
+V00131,Montgomery LLC,Logistics,USA,45,Low,0.142
+V00132,Webb Inc,Facilities,Mexico,30,Low,0.1098
+V00133,"Chapman, Webster and Johnson",IT Services,Brazil,30,Low,0.1235
+V00134,Smith-Le,Packaging,USA,90,High,0.3311
+V00135,"Kim, Daniels and Newton",IT Services,Germany,30,Low,0.0649
+V00136,"Davis, Kim and Wright",IT Services,India,30,Medium,0.1737
+V00137,Russell and Sons,Facilities,Mexico,30,Low,0.1159
+V00138,Johnson-Beltran,Packaging,Brazil,45,Low,0.3193
+V00139,"Lewis, Meyers and Parker",Packaging,Indonesia,45,Low,0.1155
+V00140,"Hardy, Robinson and Gibson",Logistics,India,45,Low,0.2058
+V00141,Long PLC,Logistics,Brazil,30,High,0.5463
+V00142,"York, Anderson and Horton",Professional Services,Brazil,30,Medium,0.3079
+V00143,Oneal PLC,Facilities,Mexico,60,Medium,0.1808
+V00144,Page and Sons,Marketing,Brazil,60,Low,0.1507
+V00145,"Walsh, Stanton and Walker",Marketing,Brazil,60,Low,0.2144
+V00146,Campbell-Townsend,Professional Services,USA,60,High,0.2538
+V00147,"Myers, Smith and Floyd",Marketing,USA,60,Low,0.02
+V00148,Banks and Sons,Packaging,Brazil,30,Low,0.0813
+V00149,Hicks-Rosales,Raw Materials,UK,30,Low,0.2073
+V00150,Hernandez LLC,Logistics,India,45,Medium,0.4507
+V00151,Mendez-Davis,IT Services,South Africa,30,Medium,0.1738
+V00152,Parker PLC,Marketing,Mexico,60,Medium,0.2353
+V00153,Gutierrez and Sons,Logistics,India,45,Medium,0.2097
+V00154,Taylor-Mayer,Marketing,Brazil,60,Low,0.4477
+V00155,"Jones, Guerra and Burns",Professional Services,India,60,High,0.1662
+V00156,Livingston-Reeves,Professional Services,Germany,45,Low,0.2045
+V00157,Henry-Martin,Packaging,USA,90,Medium,0.3099
+V00158,"Weaver, Gordon and Parker",Raw Materials,Germany,45,Low,0.3646
+V00159,Murphy Inc,Packaging,Indonesia,60,High,0.185
+V00160,Travis-Jackson,Facilities,Indonesia,30,Low,0.2839
+V00161,Caldwell Group,Marketing,India,45,Low,0.1987
+V00162,Aguirre-Wallace,Professional Services,Mexico,45,Low,0.0989
+V00163,"Johnson, Carlson and Travis",IT Services,USA,30,Low,0.4917
+V00164,Joyce-Weaver,Marketing,India,30,Low,0.299
+V00165,Bradshaw-Barnes,Packaging,Brazil,90,Medium,0.215
+V00166,Rollins Inc,Logistics,UK,60,Low,0.2495
+V00167,Reynolds Group,Packaging,South Africa,30,High,0.3502
+V00168,Ortiz-Thompson,Marketing,South Africa,30,Low,0.2576
+V00169,Ramos-Spencer,Packaging,USA,30,Medium,0.3223
+V00170,Oneal-Adams,Logistics,Mexico,30,Low,0.0535
+V00171,Vazquez-Huffman,Raw Materials,USA,90,Medium,0.2183
+V00172,Bentley-Dixon,Facilities,Brazil,45,Medium,0.4181
+V00173,Kelley-Walker,Professional Services,USA,30,Low,0.355
+V00174,Taylor PLC,Marketing,Mexico,45,High,0.3364
+V00175,Hernandez-Williams,Marketing,India,30,Low,0.2487
+V00176,"Reeves, Wilson and Peterson",Professional Services,India,30,Low,0.2027
+V00177,Berg Group,Marketing,UK,60,Medium,0.1219
+V00178,"Francis, Taylor and Elliott",IT Services,Mexico,60,Medium,0.3418
+V00179,Fowler PLC,Logistics,Mexico,90,Low,0.0346
+V00180,Rios Group,Marketing,Indonesia,60,Low,0.3575
+V00181,Richards Ltd,Marketing,Mexico,45,High,0.2631
+V00182,Mcconnell-Martinez,IT Services,Mexico,60,Medium,0.1142
+V00183,Harrell Group,IT Services,Brazil,90,High,0.4117
+V00184,Guzman LLC,Marketing,USA,60,Low,0.2018
+V00185,Leblanc-Patrick,Raw Materials,Indonesia,90,Medium,0.4125
+V00186,"Johnson, Garcia and Cummings",Professional Services,Germany,60,Low,0.2878
+V00187,Cox Group,Professional Services,UK,60,High,0.2884
+V00188,Allen-Ross,Packaging,India,30,Low,0.1048
+V00189,Burgess-Stokes,Logistics,Indonesia,60,Medium,0.2001
+V00190,Riley-Gonzalez,Professional Services,USA,45,Low,0.0382
+V00191,Gill-Aguilar,Logistics,Mexico,45,Medium,0.279
+V00192,"Townsend, Reeves and Medina",Facilities,USA,60,Medium,0.3511
+V00193,Ayers and Sons,Facilities,India,90,Low,0.0829
+V00194,Romero-Armstrong,Professional Services,South Africa,90,High,0.4912
+V00195,"Jones, Morris and Meyers",Raw Materials,India,30,Low,0.3674
+V00196,Reed Ltd,Marketing,USA,60,Medium,0.1898
+V00197,"Hensley, Potts and Wong",Marketing,Germany,60,Low,0.0781
+V00198,Wilson-Lin,Facilities,South Africa,30,Low,0.0817
+V00199,Lin Inc,Packaging,USA,30,Low,0.0988
+V00200,Baker LLC,Logistics,USA,30,Low,0.1203
+V00201,Moore-Pruitt,Packaging,Indonesia,60,Low,0.3053
+V00202,Lucas-Newton,Facilities,Mexico,45,Medium,0.4667
+V00203,Snyder LLC,Professional Services,Brazil,90,Medium,0.3132
+V00204,Garcia PLC,Raw Materials,India,45,Medium,0.1071
+V00205,"Thompson, Huynh and Navarro",Packaging,India,90,Low,0.0861
+V00206,Scott-Osborne,Logistics,USA,30,Low,0.4707
+V00207,"Graves, King and Carney",Professional Services,India,60,Low,0.1228
+V00208,"Walker, Clark and Myers",Marketing,Germany,30,Medium,0.2655
+V00209,Walker PLC,Packaging,India,45,Medium,0.1409
+V00210,"Murray, Cox and Hernandez",Logistics,Brazil,60,Low,0.2209
+V00211,"Glover, Gillespie and Mooney",IT Services,Indonesia,90,Medium,0.0695
+V00212,"Grant, Nguyen and Clark",Logistics,Brazil,60,Low,0.2697
+V00213,Craig-Acosta,Raw Materials,USA,30,Low,0.257
+V00214,Schwartz and Sons,Facilities,South Africa,30,Low,0.502
+V00215,Bennett-Blankenship,Logistics,Indonesia,30,Low,0.0869
+V00216,Gallagher-Gonzalez,Packaging,Indonesia,30,Medium,0.2061
+V00217,Gomez Group,Facilities,India,60,High,0.366
+V00218,"Howell, Waller and Holloway",Facilities,India,60,Low,0.093
+V00219,Bennett Inc,Packaging,Mexico,60,Low,0.3628
+V00220,Pace LLC,Raw Materials,UK,60,Medium,0.1981
+V00221,Petersen-Rodriguez,Raw Materials,USA,60,High,0.3345
+V00222,"Sanders, White and Valdez",Facilities,Brazil,60,Medium,0.1956
+V00223,"Beck, Dyer and Campbell",IT Services,Germany,30,Low,0.214
+V00224,"Anderson, Martinez and Proctor",Facilities,Mexico,30,Medium,0.5293
+V00225,Jones LLC,IT Services,USA,60,Low,0.3525
+V00226,"Aguilar, Morton and Kramer",Logistics,Mexico,60,High,0.3598
+V00227,Martin Ltd,IT Services,India,30,Low,0.184
+V00228,Kirk-Proctor,Facilities,Brazil,45,Medium,0.5679
+V00229,"Pittman, Rodriguez and Smith",Logistics,Germany,60,Low,0.0776
+V00230,Moore Ltd,Professional Services,India,30,Low,0.1792
+V00231,"Johnson, Hill and Ibarra",Professional Services,India,30,High,0.2952
+V00232,Turner-Franco,Facilities,UK,60,Medium,0.2994
+V00233,Wilson and Sons,Professional Services,Mexico,60,Low,0.254
+V00234,Johnson-Parks,Logistics,Germany,30,High,0.3937
+V00235,Byrd Ltd,Raw Materials,Mexico,60,Medium,0.1586
+V00236,Potts and Sons,Marketing,South Africa,30,Low,0.1687
+V00237,Buckley Group,Facilities,UK,60,Low,0.5549
+V00238,Garrett-Howell,Facilities,Indonesia,30,Low,0.0291
+V00239,"Powell, Sutton and Reynolds",Logistics,India,45,Medium,0.3756
+V00240,Robles-Jones,Logistics,India,30,Low,0.0625
+V00241,White-Lee,Marketing,South Africa,30,Low,0.1381
+V00242,"Willis, Crawford and Roberts",Facilities,Indonesia,60,High,0.2365
+V00243,Jackson-Simmons,Raw Materials,USA,30,High,0.4355
+V00244,Williams-Martin,Logistics,Brazil,30,Medium,0.2233
+V00245,Warren and Sons,Packaging,Germany,30,High,0.4939
+V00246,James Inc,Facilities,South Africa,60,Medium,0.2276
+V00247,Thompson Ltd,Marketing,Germany,60,Medium,0.2026
+V00248,Garcia-Vasquez,Raw Materials,UK,90,Medium,0.2079
+V00249,"Davis, Smith and Perry",Packaging,UK,30,Low,0.3618
+V00250,Jones Group,Raw Materials,UK,30,Low,0.249
+V00251,Dyer-Turner,Marketing,Germany,30,Low,0.185
+V00252,"Cochran, Hughes and Gomez",Professional Services,South Africa,45,Medium,0.4405
+V00253,Vincent-Ritter,Marketing,UK,90,Low,0.3013
+V00254,Hawkins-Moss,Professional Services,USA,60,Low,0.1904
+V00255,"Snyder, Lewis and Harris",Facilities,USA,45,Medium,0.2192
+V00256,Herrera-Robinson,Professional Services,Indonesia,30,Low,0.1369
+V00257,"Kim, Jones and Thompson",Logistics,South Africa,90,Low,0.01
+V00258,Wallace Inc,Professional Services,India,45,Medium,0.2182
+V00259,Nelson-Simon,Packaging,India,30,Medium,0.2114
+V00260,"Lopez, Henry and Ramsey",Marketing,Germany,30,Low,0.2281
+V00261,Kelly-Alvarez,IT Services,India,30,Low,0.2069
+V00262,Monroe-Chen,Logistics,South Africa,30,Low,0.2407
+V00263,Wallace PLC,Packaging,USA,30,Medium,0.2239
+V00264,Price Inc,Raw Materials,India,45,Medium,0.1926
+V00265,Adams-Mendoza,Raw Materials,Mexico,60,Low,0.1545
+V00266,Smith-Adams,Marketing,India,30,Medium,0.1674
+V00267,Page-Murray,Professional Services,USA,45,Low,0.114
+V00268,"Williams, Bates and James",Packaging,India,90,Low,0.2406
+V00269,Brock Group,Marketing,India,60,High,0.4079
+V00270,"Gilbert, Ruiz and Burns",Professional Services,India,45,Low,0.067
+V00271,Chandler Inc,Facilities,India,30,Low,0.2687
+V00272,Gray-Myers,Raw Materials,USA,60,Low,0.0217
+V00273,"Smith, Chavez and Bennett",Marketing,India,30,Medium,0.3658
+V00274,Mills-Clark,Packaging,Germany,30,High,0.3378
+V00275,Weaver-Nelson,Packaging,Germany,90,High,0.5269
+V00276,Reyes-Wilson,Packaging,UK,45,Low,0.6408
+V00277,Aguirre Group,IT Services,USA,60,Low,0.4673
+V00278,Henderson LLC,Packaging,Brazil,45,Medium,0.3234
+V00279,Barton-Payne,Packaging,South Africa,60,Low,0.3483
+V00280,Lawrence-Fowler,Packaging,South Africa,30,High,0.2582
+V00281,"Davis, Alexander and Clark",Logistics,India,30,Medium,0.3995
+V00282,Bullock PLC,IT Services,USA,30,Low,0.3569
+V00283,Cross-Phillips,Logistics,USA,30,Medium,0.1536
+V00284,Pace LLC,Logistics,USA,60,Low,0.1504
+V00285,Daugherty Inc,Marketing,Brazil,30,Low,0.1971
+V00286,Townsend-Williamson,IT Services,UK,45,Medium,0.2417
+V00287,Collins-Hudson,Raw Materials,India,60,Low,0.3314
+V00288,Hayes-Willis,Professional Services,UK,60,Medium,0.479
+V00289,"Davis, Duncan and Robertson",Professional Services,Brazil,45,Medium,0.0916
+V00290,"Craig, Patton and Herrera",IT Services,India,45,High,0.2694
+V00291,"Marsh, Stout and Diaz",IT Services,South Africa,90,High,0.2385
+V00292,Bradshaw Inc,IT Services,India,60,Low,0.0686
+V00293,Owens-Wood,Marketing,Mexico,60,Low,0.0134
+V00294,Murray and Sons,Logistics,India,90,Medium,0.0712
+V00295,Adkins and Sons,Logistics,South Africa,60,High,0.2097
+V00296,Freeman-Scott,Packaging,Mexico,30,Low,0.2101
+V00297,Hood LLC,Facilities,Mexico,45,Low,0.0918
+V00298,Williams-Lane,Logistics,South Africa,30,Low,0.431
+V00299,"Curtis, Herrera and Crawford",Packaging,Indonesia,60,Low,0.0695
+V00300,"Bowen, Guzman and Castro",Professional Services,Germany,90,Medium,0.2461
+V00301,Williams and Sons,Marketing,Indonesia,45,Low,0.202
+V00302,Baker Group,IT Services,India,45,Medium,0.3076
+V00303,Jefferson-Norman,Packaging,Brazil,30,Medium,0.3117
+V00304,Smith-Alexander,Packaging,Brazil,90,Medium,0.2761
+V00305,"Rogers, Sheppard and Mercado",Facilities,South Africa,30,Low,0.6137
+V00306,Dixon Ltd,Marketing,UK,30,Low,0.0528
+V00307,Pratt Ltd,Packaging,UK,30,Medium,0.1486
+V00308,"Clements, Curtis and Ward",Facilities,Germany,30,Medium,0.2937
+V00309,Lutz Inc,Logistics,USA,45,Low,0.2302
+V00310,"Johnson, Hernandez and Berger",IT Services,India,45,High,0.1544
+V00311,Baker-Sutton,Logistics,Brazil,30,Low,0.3378
+V00312,Simon Ltd,Marketing,UK,30,High,0.2734
+V00313,"Graham, Roberts and Thomas",Facilities,USA,30,Low,0.2854
+V00314,Rodriguez-Perez,Professional Services,UK,30,Low,0.1944
+V00315,"Williams, Green and Walker",Packaging,UK,30,Low,0.2741
+V00316,"Braun, Cook and Nixon",IT Services,USA,60,Low,0.2809
+V00317,Crawford PLC,Professional Services,UK,30,Low,0.1928
+V00318,Lester-Mendez,IT Services,Germany,30,Low,0.2608
+V00319,"Cole, Jones and Morris",Packaging,USA,30,Low,0.0884
+V00320,"Malone, Williams and Wood",Packaging,Mexico,30,Medium,0.2088
+V00321,Mendez-Williams,Packaging,Mexico,30,Low,0.2165
+V00322,Little Ltd,Raw Materials,Brazil,30,Medium,0.3054
+V00323,"Matthews, Miller and Morgan",Facilities,USA,60,Medium,0.2552
+V00324,Patterson-Matthews,Professional Services,Brazil,30,Low,0.3629
+V00325,"Pierce, Miller and Smith",Marketing,South Africa,45,Low,0.1676
+V00326,Clark-Manning,IT Services,Germany,45,Medium,0.3158
+V00327,"Allen, Shaw and Green",Facilities,South Africa,30,Medium,0.2044
+V00328,Graham Inc,Logistics,Brazil,45,Low,0.0601
+V00329,"Charles, Anderson and Smith",Marketing,Germany,60,Medium,0.2544
+V00330,"Rodgers, Hernandez and Davis",IT Services,USA,60,Low,0.0189
+V00331,Morgan LLC,Logistics,Indonesia,30,Low,0.1661
+V00332,Smith PLC,Raw Materials,USA,30,Medium,0.3575
+V00333,Lee-Melendez,Marketing,Indonesia,30,Low,0.0611
+V00334,Jennings Ltd,Facilities,South Africa,45,Medium,0.4473
+V00335,"Ramsey, Kelley and Williams",Raw Materials,India,60,Low,0.3757
+V00336,Cisneros Inc,Packaging,Germany,30,Medium,0.0962
+V00337,"Collins, Savage and Garcia",Packaging,India,30,Low,0.3351
+V00338,Jordan PLC,Facilities,Indonesia,90,Low,0.1832
+V00339,"Montgomery, Fuller and Hays",Marketing,India,30,Low,0.1263
+V00340,Lewis LLC,Marketing,Mexico,45,Low,0.2741
+V00341,Morrison-Adams,IT Services,India,60,Medium,0.1847
+V00342,Hernandez LLC,Packaging,Mexico,30,Low,0.2909
+V00343,Sheppard-Martin,IT Services,South Africa,30,Low,0.0769
+V00344,"Massey, Payne and Owen",Raw Materials,Germany,30,Low,0.0364
+V00345,Weaver and Sons,Raw Materials,Indonesia,90,Low,0.1357
+V00346,Reyes Group,Facilities,Indonesia,30,Medium,0.2176
+V00347,Johnson and Sons,IT Services,Mexico,30,Low,0.0826
+V00348,Thompson-Taylor,Packaging,USA,30,High,0.2296
+V00349,Kirby-Nguyen,Marketing,Germany,30,Low,0.4
+V00350,Brown-Patrick,Raw Materials,India,60,Medium,0.1573
+V00351,Andrade-Garrett,IT Services,Germany,30,Low,0.1501
+V00352,"Adams, Lane and Payne",Facilities,USA,45,Low,0.1821
+V00353,Jackson Ltd,Packaging,Brazil,45,High,0.293
+V00354,"Wallace, Wong and Rice",Logistics,Brazil,60,High,0.68
+V00355,"Howard, Daniels and Beard",Packaging,UK,30,High,0.2325
+V00356,Wu PLC,Logistics,Brazil,60,Low,0.0604
+V00357,Ellis Inc,Packaging,Indonesia,60,Low,0.135
+V00358,"Thompson, Gonzalez and Duarte",Packaging,Indonesia,30,Medium,0.221
+V00359,Lopez-Barajas,Marketing,Brazil,60,Low,0.0604
+V00360,Holmes-Jordan,Professional Services,Germany,60,Medium,0.3928
+V00361,Aguirre-Leach,Facilities,Mexico,30,Medium,0.228
+V00362,Welch-Jenkins,Logistics,India,90,Medium,0.2039
+V00363,Martinez-Williams,Professional Services,India,45,Medium,0.2219
+V00364,"Thomas, Adams and Henderson",Packaging,India,60,Medium,0.0809
+V00365,Hawkins LLC,Professional Services,Germany,90,Low,0.0873
+V00366,Hanson Ltd,Logistics,UK,30,Low,0.2049
+V00367,Paul PLC,Marketing,Indonesia,60,Medium,0.3023
+V00368,Allen-Brown,Packaging,Germany,30,Low,0.4113
+V00369,Bean Group,Facilities,USA,60,Low,0.2528
+V00370,"Robles, Taylor and James",Logistics,Mexico,60,Low,0.056
+V00371,Hayes-Banks,Professional Services,Indonesia,30,Medium,0.2704
+V00372,"Smith, Perez and Young",Raw Materials,USA,30,Medium,0.3283
+V00373,Garcia Ltd,Marketing,UK,30,Medium,0.1687
+V00374,Taylor LLC,Packaging,USA,30,Low,0.0764
+V00375,"Walters, Jackson and Clark",Professional Services,India,30,Low,0.1185
+V00376,"Ellis, Palmer and Perkins",Logistics,India,30,Low,0.086
+V00377,Gordon-Mckay,IT Services,Mexico,30,Low,0.3407
+V00378,Allen Inc,Professional Services,UK,30,Medium,0.3564
+V00379,"Pham, Jordan and Hull",Marketing,UK,60,Medium,0.3002
+V00380,Mills Group,Raw Materials,Indonesia,60,Low,0.2212
+V00381,Rivera Group,Packaging,Brazil,60,Low,0.1444
+V00382,Jackson-Grant,Packaging,Mexico,30,Low,0.0253
+V00383,"Joseph, Beard and Miller",Professional Services,Indonesia,60,High,0.1938
+V00384,Massey Ltd,Professional Services,Brazil,45,Medium,0.2488
+V00385,Martinez PLC,Marketing,UK,30,Low,0.067
+V00386,"Doyle, Fritz and Bishop",Professional Services,Mexico,30,High,0.2823
+V00387,"Camacho, Barnes and Collins",Packaging,Indonesia,60,Low,0.0664
+V00388,"Dixon, Thompson and Evans",IT Services,Mexico,30,Low,0.364
+V00389,Williams-Lopez,Logistics,India,45,High,0.2498
+V00390,"Lester, Marsh and Boyle",Packaging,South Africa,90,Low,0.0834
+V00391,Hurst-Hawkins,Packaging,Germany,30,Low,0.1481
+V00392,Myers-Lang,Logistics,India,30,Medium,0.37
+V00393,Maynard-Watson,Logistics,Brazil,90,Low,0.4829
+V00394,Shields-Gaines,Packaging,Germany,45,Medium,0.0995
+V00395,Wilson Inc,Logistics,India,30,Low,0.1166
+V00396,Nguyen-Myers,Raw Materials,UK,60,Low,0.1874
+V00397,Wheeler PLC,Professional Services,South Africa,60,Low,0.2345
+V00398,Barry Group,Logistics,USA,45,Low,0.0823
+V00399,"Brewer, Roberts and Wood",Raw Materials,UK,60,Low,0.362
+V00400,"Thompson, Brown and Jackson",IT Services,UK,30,Low,0.0682
+V00401,Freeman Group,Professional Services,USA,30,Medium,0.2168
+V00402,"Garcia, Todd and Lynch",Logistics,Mexico,45,Low,0.225
+V00403,Taylor-Clark,Facilities,Indonesia,30,Low,0.0762
+V00404,Gonzales LLC,IT Services,India,60,Low,0.1807
+V00405,"Brown, Johnson and Ryan",Facilities,Mexico,60,Low,0.1147
+V00406,Ross LLC,Logistics,South Africa,30,Low,0.2041
+V00407,"Coleman, Parker and Dominguez",Raw Materials,USA,45,Medium,0.1539
+V00408,Blevins Group,Logistics,South Africa,30,Low,0.0326
+V00409,"Dalton, Smith and Rogers",Professional Services,India,60,High,0.3863
+V00410,Guzman-Adkins,Facilities,Mexico,30,High,0.3766
+V00411,"Franco, Smith and Steele",Facilities,Germany,60,Low,0.0886
+V00412,Jordan-Lee,Professional Services,Germany,45,Low,0.1853
+V00413,Cortez Group,Logistics,India,30,Low,0.3134
+V00414,Bailey PLC,Logistics,Mexico,60,Medium,0.2969
+V00415,Wyatt Ltd,Professional Services,India,60,Low,0.1296
+V00416,Pena-Miller,IT Services,USA,45,Medium,0.1749
+V00417,"Medina, Lewis and Goodwin",Logistics,India,60,Medium,0.3359
+V00418,Nelson-Everett,Packaging,Indonesia,90,Medium,0.2003
+V00419,Miles Ltd,Professional Services,USA,30,Low,0.1282
+V00420,Martin-Bell,Raw Materials,Mexico,45,High,0.1473
